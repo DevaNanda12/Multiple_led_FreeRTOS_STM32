@@ -74,4 +74,7 @@ This project demonstrates the use of FreeRTOS with STM32 Nucleo-F446RE to create
 ## License
 
 This software is provided "AS IS" under STMicroelectronics' licensing terms. See the LICENSE file if available.
+## Author
+
+Deva Nanda S
 
